@@ -7,7 +7,7 @@ A PyTorch DataLoader for interfacing with ElasticSearch to load documents in bat
 You can install the package using pip:
 
 ```bash
-pip install git+https://github.com/yourusername/elastic_pytorch_loader.git
+pip install git+https://github.com/iarroyof/elastic_pytorch_loader.git
 ```
 ## Usage Examples
 
